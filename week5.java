@@ -21,6 +21,8 @@ public class week5 {
 
         Pergis.display();
 
+        Magno.display();
+
 
 
 
